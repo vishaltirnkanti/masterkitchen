@@ -1,0 +1,398 @@
+[
+  {
+    "code": "1DW30L",
+    "refCodes": {
+      "manufCode": "W30",
+      "sku": "W30",
+      "others": {
+        "CiC2RefCode": "DEMO_M.DEMO_M.R.32668",
+        "cic": "1DW30L",
+        "legacyCode": "Cyncly.DEMO_M.1DW30L.7233",
+        "legacyCodeCatalog": "DEMO_M.1DW30L.7233",
+        "legacyCodeManuf": "Cyncly.1DW30L.7233",
+        "userCode": "1DW30L"
+      }
+    },
+    "names": {
+      "main": {
+        "en-US": "1DW30L"
+      },
+      "planView": {
+        "en-US": "W300TALLL"
+      }
+    },
+    "descriptions": {
+      "main": {
+        "en-US": "30 cm 1 Door Wall - Left"
+      }
+    },
+    "images": {
+      "main": {
+        "uri": "assets/images/1dw30l.jpg"
+      }
+    },
+    "classification": {
+      "baseItemType": "cabinetry.cabinet",
+      "characteristics": {
+        "cabinetType": [
+          "standard"
+        ],
+        "openingDirection": [
+          "left"
+        ],
+        "shapeType": [
+          "rectangular"
+        ],
+        "subType": [
+          "wall"
+        ],
+        "targetRooms": [
+          "kitchen"
+        ]
+      },
+      "fullItemType": "Kitchen.Cabinet.Wall.Standard.Rectangular..FullDoor.HLeft"
+    },
+    "groupRefs": [
+      "41938"
+    ],
+    "visible": true,
+    "sequenceOrder": 1000130,
+    "attributes": [
+      {
+        "attributeRef": "D:COMMON_NUMFRONTDOOR1",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_NUMFRONTDOOR1_1",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_QUANTITY_SHELF_1",
+        "value": "2",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_GENERAL_CAB_STYLE",
+        "value": "Frameless",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DOOR_HINGE",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSBOX",
+        "value": "Standard Wall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_WALL_STANDARD_RECTANGULAR_STRUCTURE",
+        "value": "Standard Wall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_SHELF_DEPTH",
+        "value": "250",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSGC",
+        "value": "Full Height Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_WALL_STANDARD_RECTANGULAR_CONFIG",
+        "value": "Full Height Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_RESTRICTION_HANDLES_POSITIONING_WALLDOOR",
+        "value": "BOTTOM_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFAULT_HANDLES_POSITIONING_WALLDOOR",
+        "value": "BOTTOM_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFINITION_HANDLES_POSITIONING_WALLDOOR",
+        "value": "BOTTOM_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "MANUF",
+        "value": "W30",
+        "overridable": false
+      },
+      {
+        "attributeRef": "RECHG",
+        "value": "0",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Doors_and_Finishes",
+        "value": "#MOD_Doors_and_Finishes_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Handles",
+        "value": "#MOD_Handles_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_NumCabDOorPull",
+        "value": "1",
+        "overridable": false
+      }
+    ],
+    "dimensions": {
+      "width": {
+        "defaultValue": "300"
+      },
+      "height": {
+        "defaultValue": "720"
+      },
+      "depth": {
+        "defaultValue": "300"
+      }
+    },
+    "subItems": [
+      {
+        "itemRef": "D:templates_cabinet_wall_standard_rectangular",
+        "position": [
+          "0",
+          "0",
+          "0"
+        ],
+        "orientation": [
+          "0",
+          "0",
+          "0"
+        ],
+        "scale": [
+          "1",
+          "1",
+          "1"
+        ],
+        "inverted": false,
+        "dimension": {
+          "width": "$PW$",
+          "height": "$PH$",
+          "depth": "$PD$"
+        }
+      }
+    ],
+    "featureRefs": [
+      {
+        "featureRef": "Doors_and_Finishes",
+        "scoped": false
+      },
+      {
+        "featureRef": "Handles",
+        "defaultOptionCode": "PULL1",
+        "scoped": false
+      }
+    ],
+    "restrictionRefs": [
+      "GSV2-011Doors_and_Finishes-016Handles"
+    ],
+    "sequenceFactor": 6
+  },
+  {
+    "code": "2DW80",
+    "refCodes": {
+      "manufCode": "W80",
+      "sku": "W80",
+      "others": {
+        "CiC2RefCode": "DEMO_M.DEMO_M.R.41958",
+        "cic": "2DW80",
+        "legacyCode": "Cyncly.DEMO_M.2DW80.7233",
+        "legacyCodeCatalog": "DEMO_M.2DW80.7233",
+        "legacyCodeManuf": "Cyncly.2DW80.7233",
+        "userCode": "2DW80"
+      }
+    },
+    "names": {
+      "main": {
+        "en-US": "2DW80"
+      },
+      "planView": {
+        "en-US": "W800TALL"
+      }
+    },
+    "descriptions": {
+      "main": {
+        "en-US": "80 cm 2 Doors Wall"
+      }
+    },
+    "images": {
+      "main": {
+        "uri": "assets/images/2dw80.jpg"
+      }
+    },
+    "classification": {
+      "baseItemType": "cabinetry.cabinet",
+      "characteristics": {
+        "cabinetType": [
+          "standard"
+        ],
+        "openingDirection": [
+          "both"
+        ],
+        "shapeType": [
+          "rectangular"
+        ],
+        "subType": [
+          "wall"
+        ],
+        "targetRooms": [
+          "kitchen"
+        ]
+      },
+      "fullItemType": "Kitchen.Cabinet.Wall.Standard.Rectangular..FullDoor.HBoth"
+    },
+    "groupRefs": [
+      "41939"
+    ],
+    "visible": true,
+    "sequenceOrder": 1000143,
+    "attributes": [
+      {
+        "attributeRef": "D:COMMON_NUMFRONTDOOR1",
+        "value": "2",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_NUMFRONTDOOR1_1",
+        "value": "2",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_QUANTITY_SHELF_1",
+        "value": "2",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_GENERAL_CAB_STYLE",
+        "value": "Frameless",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSBOX",
+        "value": "Standard Wall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_WALL_STANDARD_RECTANGULAR_STRUCTURE",
+        "value": "Standard Wall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_SHELF_DEPTH",
+        "value": "250",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSGC",
+        "value": "Full Height Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_WALL_STANDARD_RECTANGULAR_CONFIG",
+        "value": "Full Height Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_RESTRICTION_HANDLES_POSITIONING_WALLDOOR",
+        "value": "BOTTOM_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFAULT_HANDLES_POSITIONING_WALLDOOR",
+        "value": "BOTTOM_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFINITION_HANDLES_POSITIONING_WALLDOOR",
+        "value": "BOTTOM_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "MANUF",
+        "value": "W80",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Doors_and_Finishes",
+        "value": "#MOD_Doors_and_Finishes_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Handles",
+        "value": "#MOD_Handles_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_NumCabDOorPull",
+        "value": "2",
+        "overridable": false
+      }
+    ],
+    "dimensions": {
+      "width": {
+        "defaultValue": "800"
+      },
+      "height": {
+        "defaultValue": "720"
+      },
+      "depth": {
+        "defaultValue": "300"
+      }
+    },
+    "subItems": [
+      {
+        "itemRef": "D:templates_cabinet_wall_standard_rectangular",
+        "position": [
+          "0",
+          "0",
+          "0"
+        ],
+        "orientation": [
+          "0",
+          "0",
+          "0"
+        ],
+        "scale": [
+          "1",
+          "1",
+          "1"
+        ],
+        "inverted": false,
+        "dimension": {
+          "width": "$PW$",
+          "height": "$PH$",
+          "depth": "$PD$"
+        }
+      }
+    ],
+    "featureRefs": [
+      {
+        "featureRef": "Doors_and_Finishes",
+        "scoped": false
+      },
+      {
+        "featureRef": "Handles",
+        "defaultOptionCode": "PULL1",
+        "scoped": false
+      }
+    ],
+    "restrictionRefs": [
+      "GSV2-011Doors_and_Finishes-016Handles"
+    ],
+    "sequenceFactor": 3
+  }
+]

@@ -1,0 +1,795 @@
+[
+  {
+    "code": "1DT30L",
+    "refCodes": {
+      "manufCode": "T30",
+      "sku": "T30",
+      "others": {
+        "CiC2RefCode": "DEMO_M.DEMO_M.R.32689",
+        "cic": "1DT30L",
+        "legacyCode": "Cyncly.DEMO_M.1DT30L.7232",
+        "legacyCodeCatalog": "DEMO_M.1DT30L.7232",
+        "legacyCodeManuf": "Cyncly.1DT30L.7232",
+        "userCode": "1DT30L"
+      }
+    },
+    "names": {
+      "main": {
+        "en-US": "1DT30L"
+      },
+      "planView": {
+        "en-US": "P300L"
+      }
+    },
+    "descriptions": {
+      "main": {
+        "en-US": "30 cm 1 Door Tall - Left"
+      }
+    },
+    "images": {
+      "main": {
+        "uri": "assets/images/1dt30l.jpg"
+      }
+    },
+    "classification": {
+      "baseItemType": "cabinetry.cabinet",
+      "characteristics": {
+        "cabinetType": [
+          "standard"
+        ],
+        "openingDirection": [
+          "left"
+        ],
+        "shapeType": [
+          "rectangular"
+        ],
+        "subType": [
+          "tall"
+        ],
+        "targetRooms": [
+          "kitchen"
+        ]
+      },
+      "fullItemType": "Kitchen.Cabinet.Tall.Standard.Rectangular..FullDoor.HLeft..ForFoodStorage"
+    },
+    "groupRefs": [
+      "478"
+    ],
+    "visible": true,
+    "sequenceOrder": 1000171,
+    "attributes": [
+      {
+        "attributeRef": "D:COMMON_DECORATIVE_TYPE_INTEGRATION_TOEKICK",
+        "value": "Cross",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_POSITIONY3",
+        "value": "125",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_POSITIONY4",
+        "value": "125",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_QUANTITY",
+        "value": "4",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_STYLE",
+        "value": "Tubular Leg",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_NUMFRONTDOOR1",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_NUMFRONTDOOR1_1",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_QUANTITY_SHELF_1",
+        "value": "5",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_GENERAL_CAB_STYLE",
+        "value": "Frameless",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DOOR_HINGE",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_5",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_4",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_3",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_2",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_1",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSBOX",
+        "value": "Standard Tall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_TALL_STANDARD_RECTANGULAR_STRUCTURE",
+        "value": "Standard Tall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_SHELF_DEPTH",
+        "value": "510",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSGC",
+        "value": "Full Height Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_TALL_STANDARD_RECTANGULAR_CONFIG",
+        "value": "Full Height Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_STYLE_TOEKICK",
+        "value": "Floating Structure or Feet/Legs",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CLEARANCE_TOEKICK",
+        "value": "75",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFAULT_HANDLES_POSITIONING_TALLDOOR",
+        "value": "MIDDLE_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFINITION_HANDLES_POSITIONING_TALLDOOR",
+        "value": "MIDDLE_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCTH",
+        "value": "150",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_TOEKICK_HEIGHT",
+        "value": "150",
+        "overridable": false
+      },
+      {
+        "attributeRef": "MANUF",
+        "value": "T30",
+        "overridable": false
+      },
+      {
+        "attributeRef": "RECHG",
+        "value": "0",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Doors_and_Finishes",
+        "value": "#MOD_Doors_and_Finishes_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Handles",
+        "value": "#MOD_Handles_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_NumCabDOorPull",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:searchToeKick",
+        "value": "searchItem('', '{\"classificationFilter\":{\"fullItemTypes\":[\"Kitchen.Molding.ForCabinetBase.Bottom\"]},\"catalogCodeFilters\":[{\"manufRefCode\":\"073970e1-93ad-4e81-b20e-7034fa47c4f7\",\"catalogRefCodes\":[{\"code\":\"DEMO_M\"}]}]}')"
+      }
+    ],
+    "dimensions": {
+      "width": {
+        "defaultValue": "300"
+      },
+      "height": {
+        "defaultValue": "2250"
+      },
+      "depth": {
+        "defaultValue": "560"
+      }
+    },
+    "subItems": [
+      {
+        "itemRef": "D:templates_cabinet_tall_standard_rectangular",
+        "position": [
+          "0",
+          "0",
+          "0"
+        ],
+        "orientation": [
+          "0",
+          "0",
+          "0"
+        ],
+        "scale": [
+          "1",
+          "1",
+          "1"
+        ],
+        "inverted": false,
+        "dimension": {
+          "width": "$PW$",
+          "height": "$PH$",
+          "depth": "$PD$"
+        }
+      }
+    ],
+    "featureRefs": [
+      {
+        "featureRef": "Doors_and_Finishes",
+        "scoped": false
+      },
+      {
+        "featureRef": "Handles",
+        "defaultOptionCode": "PULL1",
+        "scoped": false
+      }
+    ],
+    "restrictionRefs": [
+      "GSV2-011Doors_and_Finishes-016Handles"
+    ],
+    "sequenceFactor": 2
+  },
+  {
+    "code": "1DT40L",
+    "refCodes": {
+      "manufCode": "T40",
+      "sku": "T40",
+      "others": {
+        "CiC2RefCode": "DEMO_M.DEMO_M.R.32691",
+        "cic": "1DT40L",
+        "legacyCode": "Cyncly.DEMO_M.1DT40L.7232",
+        "legacyCodeCatalog": "DEMO_M.1DT40L.7232",
+        "legacyCodeManuf": "Cyncly.1DT40L.7232",
+        "userCode": "1DT40L"
+      }
+    },
+    "names": {
+      "main": {
+        "en-US": "1DT40L"
+      },
+      "planView": {
+        "en-US": "P400L"
+      }
+    },
+    "descriptions": {
+      "main": {
+        "en-US": "40 cm 1 Door Tall - Left"
+      }
+    },
+    "images": {
+      "main": {
+        "uri": "assets/images/1dt40l.jpg"
+      }
+    },
+    "classification": {
+      "baseItemType": "cabinetry.cabinet",
+      "characteristics": {
+        "cabinetType": [
+          "standard"
+        ],
+        "openingDirection": [
+          "left"
+        ],
+        "shapeType": [
+          "rectangular"
+        ],
+        "subType": [
+          "tall"
+        ],
+        "targetRooms": [
+          "kitchen"
+        ]
+      },
+      "fullItemType": "Kitchen.Cabinet.Tall.Standard.Rectangular..FullDoor.HLeft..ForFoodStorage"
+    },
+    "groupRefs": [
+      "478"
+    ],
+    "visible": true,
+    "sequenceOrder": 1000173,
+    "attributes": [
+      {
+        "attributeRef": "D:COMMON_DECORATIVE_TYPE_INTEGRATION_TOEKICK",
+        "value": "Cross",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_POSITIONY3",
+        "value": "125",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_POSITIONY4",
+        "value": "125",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_QUANTITY",
+        "value": "4",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_STYLE",
+        "value": "Tubular Leg",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_NUMFRONTDOOR1",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_NUMFRONTDOOR1_1",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_QUANTITY_SHELF_1",
+        "value": "5",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_GENERAL_CAB_STYLE",
+        "value": "Frameless",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DOOR_HINGE",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_5",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_4",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_3",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_2",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_DOOR_HINGE_1_1",
+        "value": "0 (Standard)",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSBOX",
+        "value": "Standard Tall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_TALL_STANDARD_RECTANGULAR_STRUCTURE",
+        "value": "Standard Tall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_SHELF_DEPTH",
+        "value": "510",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSGC",
+        "value": "Full Height Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_TALL_STANDARD_RECTANGULAR_CONFIG",
+        "value": "Full Height Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_STYLE_TOEKICK",
+        "value": "Floating Structure or Feet/Legs",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CLEARANCE_TOEKICK",
+        "value": "75",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFAULT_HANDLES_POSITIONING_TALLDOOR",
+        "value": "MIDDLE_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFINITION_HANDLES_POSITIONING_TALLDOOR",
+        "value": "MIDDLE_SIDE_VERTICAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCTH",
+        "value": "150",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_TOEKICK_HEIGHT",
+        "value": "150",
+        "overridable": false
+      },
+      {
+        "attributeRef": "MANUF",
+        "value": "T40",
+        "overridable": false
+      },
+      {
+        "attributeRef": "RECHG",
+        "value": "0",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Doors_and_Finishes",
+        "value": "#MOD_Doors_and_Finishes_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Handles",
+        "value": "#MOD_Handles_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_NumCabDOorPull",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:searchToeKick",
+        "value": "searchItem('', '{\"classificationFilter\":{\"fullItemTypes\":[\"Kitchen.Molding.ForCabinetBase.Bottom\"]},\"catalogCodeFilters\":[{\"manufRefCode\":\"073970e1-93ad-4e81-b20e-7034fa47c4f7\",\"catalogRefCodes\":[{\"code\":\"DEMO_M\"}]}]}')"
+      }
+    ],
+    "dimensions": {
+      "width": {
+        "defaultValue": "400"
+      },
+      "height": {
+        "defaultValue": "2250"
+      },
+      "depth": {
+        "defaultValue": "560"
+      }
+    },
+    "subItems": [
+      {
+        "itemRef": "D:templates_cabinet_tall_standard_rectangular",
+        "position": [
+          "0",
+          "0",
+          "0"
+        ],
+        "orientation": [
+          "0",
+          "0",
+          "0"
+        ],
+        "scale": [
+          "1",
+          "1",
+          "1"
+        ],
+        "inverted": false,
+        "dimension": {
+          "width": "$PW$",
+          "height": "$PH$",
+          "depth": "$PD$"
+        }
+      }
+    ],
+    "featureRefs": [
+      {
+        "featureRef": "Doors_and_Finishes",
+        "scoped": false
+      },
+      {
+        "featureRef": "Handles",
+        "defaultOptionCode": "PULL1",
+        "scoped": false
+      }
+    ],
+    "restrictionRefs": [
+      "GSV2-011Doors_and_Finishes-016Handles"
+    ],
+    "sequenceFactor": 4
+  },
+  {
+    "code": "POT30",
+    "refCodes": {
+      "manufCode": "T30",
+      "sku": "T30",
+      "others": {
+        "CiC2RefCode": "DEMO_M.DEMO_M.R.32699",
+        "cic": "POT30",
+        "legacyCode": "Cyncly.DEMO_M.POT30.7232",
+        "legacyCodeCatalog": "DEMO_M.POT30.7232",
+        "legacyCodeManuf": "Cyncly.POT30.7232",
+        "userCode": "POT30"
+      }
+    },
+    "names": {
+      "main": {
+        "en-US": "POT30"
+      },
+      "planView": {
+        "en-US": "PPO300"
+      }
+    },
+    "descriptions": {
+      "main": {
+        "en-US": "30 cm Pull Out Tall"
+      }
+    },
+    "images": {
+      "main": {
+        "uri": "assets/images/pot30.jpg"
+      }
+    },
+    "classification": {
+      "baseItemType": "cabinetry.cabinet",
+      "characteristics": {
+        "cabinetType": [
+          "standard"
+        ],
+        "shapeType": [
+          "rectangular"
+        ],
+        "subType": [
+          "tall"
+        ],
+        "targetRooms": [
+          "kitchen"
+        ]
+      },
+      "fullItemType": "Kitchen.Cabinet.Tall.Standard.Rectangular..FullDoor..ForFoodStorage"
+    },
+    "groupRefs": [
+      "6630"
+    ],
+    "visible": true,
+    "sequenceOrder": 1000169,
+    "attributes": [
+      {
+        "attributeRef": "D:COMMON_DOOR_ACCESS_DEPTH1",
+        "value": "460",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DOOR_ACCESS_HEIGHT1",
+        "value": "2050",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DOOR_ACCESSORY_PULLOUT",
+        "value": "Wire PullOut 03",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DECORATIVE_TYPE_INTEGRATION_TOEKICK",
+        "value": "Cross",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_POSITIONY3",
+        "value": "125",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_POSITIONY4",
+        "value": "125",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_QUANTITY",
+        "value": "4",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_LEG_STYLE",
+        "value": "Tubular Leg",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_NUMFRONTDOOR1",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CUSTOMV_NUMFRONTDOOR1_1",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_QUANTITY_SHELF_1",
+        "value": "6",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_GENERAL_CAB_STYLE",
+        "value": "Frameless",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_RESTRICTION_HANDLES_POSITIONING_PULLOUT",
+        "value": "MIDDLE_CENTER_HORIZONTAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFAULT_HANDLES_POSITIONING_PULLOUTDOOR",
+        "value": "MIDDLE_CENTER_HORIZONTAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_DEFINITION_HANDLES_POSITIONING_PULLOUT",
+        "value": "MIDDLE_CENTER_HORIZONTAL",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSBOX",
+        "value": "Standard Tall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_TALL_STANDARD_RECTANGULAR_STRUCTURE",
+        "value": "Standard Tall",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCSGC",
+        "value": "Full Height Pull Out Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:TEMPLATES_TALL_STANDARD_RECTANGULAR_CONFIG",
+        "value": "Full Height Pull Out Door",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_STYLE_TOEKICK",
+        "value": "Floating Structure or Feet/Legs",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_CLEARANCE_TOEKICK",
+        "value": "75",
+        "overridable": false
+      },
+      {
+        "attributeRef": "CCTH",
+        "value": "150",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:COMMON_TOEKICK_HEIGHT",
+        "value": "150",
+        "overridable": false
+      },
+      {
+        "attributeRef": "MANUF",
+        "value": "T30",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Doors_and_Finishes",
+        "value": "#MOD_Doors_and_Finishes_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_Handles",
+        "value": "#MOD_Handles_REF#",
+        "overridable": false
+      },
+      {
+        "attributeRef": "REF_NumCabDOorPull",
+        "value": "1",
+        "overridable": false
+      },
+      {
+        "attributeRef": "D:searchToeKick",
+        "value": "searchItem('', '{\"classificationFilter\":{\"fullItemTypes\":[\"Kitchen.Molding.ForCabinetBase.Bottom\"]},\"catalogCodeFilters\":[{\"manufRefCode\":\"073970e1-93ad-4e81-b20e-7034fa47c4f7\",\"catalogRefCodes\":[{\"code\":\"DEMO_M\"}]}]}')"
+      }
+    ],
+    "dimensions": {
+      "width": {
+        "defaultValue": "300"
+      },
+      "height": {
+        "defaultValue": "2250"
+      },
+      "depth": {
+        "defaultValue": "560"
+      }
+    },
+    "subItems": [
+      {
+        "itemRef": "D:templates_cabinet_tall_standard_rectangular",
+        "position": [
+          "0",
+          "0",
+          "0"
+        ],
+        "orientation": [
+          "0",
+          "0",
+          "0"
+        ],
+        "scale": [
+          "1",
+          "1",
+          "1"
+        ],
+        "inverted": false,
+        "dimension": {
+          "width": "$PW$",
+          "height": "$PH$",
+          "depth": "$PD$"
+        }
+      }
+    ],
+    "featureRefs": [
+      {
+        "featureRef": "Doors_and_Finishes",
+        "scoped": false
+      },
+      {
+        "featureRef": "Handles",
+        "defaultOptionCode": "PULL1",
+        "scoped": false
+      }
+    ],
+    "restrictionRefs": [
+      "GSV2-011Doors_and_Finishes-016Handles"
+    ],
+    "sequenceFactor": 1
+  }
+]

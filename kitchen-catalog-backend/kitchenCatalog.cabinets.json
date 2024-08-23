@@ -1,0 +1,226 @@
+[
+  {
+    "_id": {
+      "$oid": "66a1379273ed108a75aa4c9b"
+    },
+    "type": "base",
+    "name": "Base Cabinets",
+    "description": "Base cabinets for the kitchen.",
+    "dimensions": "24x24x34",
+    "image_url": "https://catalogassets-stag.cyncly-content.net/assets/289C4C156AF5B2836281199F328BC079.jpg",
+    "subcategories": [
+      {
+        "name": "Full Door",
+        "image_url": "https://catalogassets-stag.cyncly-content.net/assets/289C4C156AF5B2836281199F328BC079.jpg",
+        "dimensions": [
+          {
+            "width": "30cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4c9d"
+            },
+            "cabinet_code": "1DB30L",
+            "materials": [
+              { "name": "Particleboard", "weight": 15 },
+              { "name": "Fibreboard", "weight": 3 },
+              { "name": "Steel", "weight": 2 }
+            ]
+          }
+        ],
+        "_id": {
+          "$oid": "66a1379273ed108a75aa4c9c"
+        }
+      },
+      {
+        "name": "Door Drawer",
+        "image_url": "https://catalogassets-stag.cyncly-content.net/assets/0D9856FCCC762B3CAFDCA03C0D1AF2E8.jpg",
+        "dimensions": [
+          {
+            "width": "30cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4ca1"
+            },
+            "cabinet_code": "1D1DRB30L",
+            "materials": [
+              { "name": "Particleboard", "weight": 16 },
+              { "name": "Fibreboard", "weight": 4 },
+              { "name": "Steel", "weight": 3 },
+              { "name": "Melamine foil", "weight": 2 }
+            ]
+          }
+        ],
+        "_id": {
+          "$oid": "66a1379273ed108a75aa4ca0"
+        }
+      },
+      {
+        "name": "Drawers",
+        "image_url": "https://catalogassets-stag.cyncly-content.net/assets/B6D97AC7B67C0636434FABEF6E95FD72.jpg",
+        "dimensions": [
+          {
+            "width": "30cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4ca5"
+            },
+            "cabinet_code": "3DRB30",
+            "materials": [
+              { "name": "Particleboard", "weight": 18 },
+              { "name": "Fibreboard", "weight": 4 },
+              { "name": "Steel", "weight": 6 },
+              { "name": "Melamine foil", "weight": 2 }
+            ]
+          }
+        ],
+        "_id": {
+          "$oid": "66a1379273ed108a75aa4ca4"
+        }
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66a1379273ed108a75aa4ca8"
+    },
+    "type": "wall",
+    "name": "Wall Cabinets",
+    "description": "Wall cabinets for the kitchen.",
+    "dimensions": "12x24x30",
+    "image_url": "https://via.placeholder.com/150",
+    "subcategories": [
+      {
+        "name": "Single Door",
+        "image_url": "https://catalogassets-stag.cyncly-content.net/assets/14DB813AF24B666129DA8EB4A59F3ED5.jpg",
+        "dimensions": [
+          {
+            "width": "30cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4caa"
+            },
+            "cabinet_code": "1DSB30L"
+          },
+          {
+            "width": "40cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cab"
+            },
+            "cabinet_code": "1DSB40L"
+          },
+          {
+            "width": "60cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cac"
+            },
+            "cabinet_code": "1DSB60L"
+          }
+        ],
+        "_id": {
+          "$oid": "66a1379273ed108a75aa4ca9"
+        }
+      },
+      {
+        "name": "Double Door",
+        "image_url": "https://catalogassets-stag.cyncly-content.net/assets/EAA96E0B2D11B149E1F7981956176175.jpg",
+        "dimensions": [
+          {
+            "width": "30cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cae"
+            },
+            "cabinet_code": "2DSB30L"
+          },
+          {
+            "width": "40cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4caf"
+            },
+            "cabinet_code": "2DSB40L"
+          },
+          {
+            "width": "60cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cb0"
+            },
+            "cabinet_code": "2DSB60L"
+          }
+        ],
+        "_id": {
+          "$oid": "66a1379273ed108a75aa4cad"
+        }
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66a1379273ed108a75aa4cb5"
+    },
+    "type": "tall",
+    "name": "Tall Cabinets",
+    "description": "Tall cabinets for the kitchen.",
+    "dimensions": "24x24x84",
+    "image_url": "https://via.placeholder.com/150",
+    "subcategories": [
+      {
+        "name": "Pantry",
+        "image_url": "https://catalogassets-stag.cyncly-content.net/assets/F625562E7BCCE548397BEE560355F363.jpg",
+        "dimensions": [
+          {
+            "width": "30cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cb7"
+            },
+            "cabinet_code": "P30L"
+          },
+          {
+            "width": "40cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cb8"
+            },
+            "cabinet_code": "P40L"
+          },
+          {
+            "width": "60cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cb9"
+            },
+            "cabinet_code": "P60L"
+          }
+        ],
+        "_id": {
+          "$oid": "66a1379273ed108a75aa4cb6"
+        }
+      },
+      {
+        "name": "Full Door",
+        "image_url": "https://catalogassets-stag.cyncly-content.net/assets/D0900AB4574988497330641B7D9505A0.jpg",
+        "dimensions": [
+          {
+            "width": "30cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cbb"
+            },
+            "cabinet_code": "TFD30L"
+          },
+          {
+            "width": "40cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cbc"
+            },
+            "cabinet_code": "TFD40L"
+          },
+          {
+            "width": "60cm",
+            "_id": {
+              "$oid": "66a1379273ed108a75aa4cbd"
+            },
+            "cabinet_code": "TFD60L"
+          }
+        ],
+        "_id": {
+          "$oid": "66a1379273ed108a75aa4cba"
+        }
+      }
+    ],
+    "__v": 0
+  }
+]

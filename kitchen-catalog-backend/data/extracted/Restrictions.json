@@ -1,0 +1,1 @@
+[{"code":"GSV2-011Doors_and_Finishes-016Handles","names":{"en-US":"Doors_and_Finishes-Handles"},"excludedCombinations":[{"combination":[{"featureRef":"Doors_and_Finishes","optionRefs":["integrated1"]},{"featureRef":"Handles","optionRefs":["nhdl"],"allExceptTheseOptions":true}]}]}]

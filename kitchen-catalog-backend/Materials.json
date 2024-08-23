@@ -1,0 +1,34 @@
+[
+  {
+    "_id": {
+      "$oid": "66a1379273ed108a75aa4d00"
+    },
+    "material": "Particleboard",
+    "emissionFactor": 0.43,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66a1379273ed108a75aa4d01"
+    },
+    "material": "Fibreboard",
+    "emissionFactor": 0.43,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66a1379273ed108a75aa4d02"
+    },
+    "material": "Steel",
+    "emissionFactor": 2.1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66a1379273ed108a75aa4d03"
+    },
+    "material": "Melamine foil",
+    "emissionFactor": 5.0,
+    "__v": 0
+  }
+]
