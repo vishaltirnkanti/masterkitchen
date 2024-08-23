@@ -102,6 +102,7 @@ const App = () => {
 		  <Tab label={<Badge color="secondary" badgeContent={countSelectedInCategory('wall')}>Wall Cabinets</Badge>} value="wall" />
 		  <Tab label={<Badge color="secondary" badgeContent={countSelectedInCategory('tall')}>Tall Cabinets</Badge>} value="tall" />
 		</Tabs>
+		{/*
 		<Grid container spacing={3}>
 		  {cabinets.filter(cabinet => cabinet.type === category).map(cabinet => (
 			cabinet.subcategories.map((subcat, index) => (
@@ -149,6 +150,7 @@ const App = () => {
 			))
 		  ))}
 		</Grid>
+		*/}
 		<Box mt={3}>
 		  <Button variant="contained" color="primary" onClick={handleSubmit} disabled={loading}>
 			Save Selection
